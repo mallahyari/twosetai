@@ -1,0 +1,2724 @@
+[
+    [
+        {
+            "subject": "Thomas Jeffrey Hanks",
+            "relationship": "has received",
+            "object": "AFI Life Achievement Award"
+        },
+        {
+            "subject": "Thomas Jeffrey Hanks",
+            "relationship": "has received",
+            "object": "Kennedy Center Honor"
+        },
+        {
+            "subject": "Thomas Jeffrey Hanks",
+            "relationship": "has received",
+            "object": "Presidential Medal of Freedom"
+        },
+        {
+            "subject": "Thomas Jeffrey Hanks",
+            "relationship": "has received",
+            "object": "French Legion of Honor"
+        },
+        {
+            "subject": "Thomas Jeffrey Hanks",
+            "relationship": "has received",
+            "object": "Golden Globe Cecil B. DeMille Award"
+        },
+        {
+            "subject": "Thomas Jeffrey Hanks",
+            "relationship": "has grossed",
+            "object": "$4.9 billion in North America"
+        },
+        {
+            "subject": "Thomas Jeffrey Hanks",
+            "relationship": "has grossed",
+            "object": "$9.96 billion worldwide"
+        },
+        {
+            "subject": "Thomas Jeffrey Hanks",
+            "relationship": "is",
+            "object": "American actor"
+        },
+        {
+            "subject": "Thomas Jeffrey Hanks",
+            "relationship": "is",
+            "object": "filmmaker"
+        },
+        {
+            "subject": "North America",
+            "relationship": "has grossed",
+            "object": "$4.9 billion"
+        },
+        {
+            "subject": "North America",
+            "relationship": "has grossed",
+            "object": "fourth-highest-grossing actor"
+        },
+        {
+            "subject": "North America",
+            "relationship": "has grossed",
+            "object": "$9.96 billion worldwide"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "starred in",
+            "object": "Splash"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "starred in",
+            "object": "The Money Pit"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "starred in",
+            "object": "Big"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "starred in",
+            "object": "A League of Their Own"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "won",
+            "object": "two consecutive Academy Awards for Best Actor"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "starred as",
+            "object": "gay lawyer suffering from AIDS in Philadelphia"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "starred as",
+            "object": "the title character in Forrest Gump"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "collaborated with",
+            "object": "Steven Spielberg"
+        },
+        {
+            "subject": "Steven Spielberg",
+            "relationship": "directed",
+            "object": "Saving Private Ryan"
+        },
+        {
+            "subject": "Steven Spielberg",
+            "relationship": "directed",
+            "object": "Catch Me If You Can"
+        },
+        {
+            "subject": "Steven Spielberg",
+            "relationship": "directed",
+            "object": "The Terminal"
+        },
+        {
+            "subject": "Steven Spielberg",
+            "relationship": "directed",
+            "object": "Bridge of Spies"
+        },
+        {
+            "subject": "Steven Spielberg",
+            "relationship": "directed",
+            "object": "The Post"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "collaborated with",
+            "object": "Ron Howard"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "collaborated with",
+            "object": "Nora Ephron"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "collaborated with",
+            "object": "Robert Zemeckis"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "acted in",
+            "object": "Sleepless in Seattle"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "acted in",
+            "object": "You've Got Mail"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "acted in",
+            "object": "Apollo 13"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "acted in",
+            "object": "The Green Mile"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "acted in",
+            "object": "Cast Away"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "acted in",
+            "object": "Road to Perdition"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "acted in",
+            "object": "Cloud Atlas"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "acted in",
+            "object": "Charlie Wilson's War"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "acted in",
+            "object": "Captain Phillips"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "acted in",
+            "object": "Saving Mr. Banks"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "acted in",
+            "object": "Sully"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "acted in",
+            "object": "A Beautiful Day in the Neighborhood"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "acted in",
+            "object": "News of the World"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "acted in",
+            "object": "Elvis"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "acted in",
+            "object": "Toy Story"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "directed",
+            "object": "That Thing You Do!"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "acted in",
+            "object": "Larry Crowne"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "launched",
+            "object": "Playtone"
+        },
+        {
+            "subject": "Playtone",
+            "relationship": "has",
+            "object": "exclusive television development deal with HBO"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "has won",
+            "object": "seven Primetime Emmy Awards"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "won",
+            "object": "Primetime Emmy Awards"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "won",
+            "object": "seven Primetime Emmy Awards"
+        },
+        {
+            "subject": "Primetime Emmy Awards",
+            "relationship": "for his work as a producer of",
+            "object": "various limited series and television movies"
+        },
+        {
+            "subject": "limited series and television movies",
+            "relationship": "include",
+            "object": "From the Earth to the Moon"
+        },
+        {
+            "subject": "limited series and television movies",
+            "relationship": "include",
+            "object": "Band of Brothers"
+        },
+        {
+            "subject": "limited series and television movies",
+            "relationship": "include",
+            "object": "John Adams"
+        },
+        {
+            "subject": "limited series and television movies",
+            "relationship": "include",
+            "object": "The Pacific"
+        },
+        {
+            "subject": "limited series and television movies",
+            "relationship": "include",
+            "object": "Game Change"
+        },
+        {
+            "subject": "limited series and television movies",
+            "relationship": "include",
+            "object": "Olive Kitteridge"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "made",
+            "object": "Broadway debut in Nora Ephron's Lucky Guy"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "earned",
+            "object": "Tony Award for Best Actor in a Play nomination"
+        }
+    ],
+    [],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "was born in",
+            "object": "Concord, California"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "is a distant cousin of",
+            "object": "President Abraham Lincoln"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "is a distant cousin of",
+            "object": "children's host Fred Rogers"
+        }
+    ],
+    [
+        {
+            "subject": "Sandra",
+            "relationship": "is",
+            "object": "writer"
+        },
+        {
+            "subject": "Larry",
+            "relationship": "became",
+            "object": "entomology professor at the University of Illinois Urbana-Champaign"
+        },
+        {
+            "subject": "Tom",
+            "relationship": "went with",
+            "object": "their father"
+        },
+        {
+            "subject": "Jim",
+            "relationship": "remained with",
+            "object": "their mother in Red Bluff, California"
+        },
+        {
+            "subject": "Jim",
+            "relationship": "became",
+            "object": "actor and filmmaker"
+        }
+    ],
+    [],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "attended",
+            "object": "Skyline High School"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "acted in",
+            "object": "South Pacific"
+        },
+        {
+            "subject": "Skyline High School",
+            "relationship": "is located in",
+            "object": "Oakland"
+        },
+        {
+            "subject": "Skyline High School",
+            "relationship": "is located in",
+            "object": "California"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "was characterized as",
+            "object": "Bible-toting evangelical"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "was",
+            "object": "unpopular in school"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "was",
+            "object": "shy"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "was",
+            "object": "geek"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "was",
+            "object": "spaz"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "was",
+            "object": "good kid"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "was",
+            "object": "responsible"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "yelled out",
+            "object": "funny captions"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "did not get into",
+            "object": "trouble"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "grew up in",
+            "object": "Bay Area"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "studied",
+            "object": "theater at Chabot College"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "transferred to",
+            "object": "California State University, Sacramento"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "prefer",
+            "object": "Heisman Trophy"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "mentioned in",
+            "object": "New York magazine"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "mentioned in",
+            "object": "interview with Bob Costas"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "watched movies in",
+            "object": "Alameda Theatre"
+        },
+        {
+            "subject": "Alameda Theatre",
+            "relationship": "is located in",
+            "object": "Alameda, California"
+        },
+        {
+            "subject": "Chabot College",
+            "relationship": "is located in",
+            "object": "Hayward, California"
+        },
+        {
+            "subject": "California State University, Sacramento",
+            "relationship": "is located in",
+            "object": "Sacramento, California"
+        },
+        {
+            "subject": "Bob Costas",
+            "relationship": "interviewed",
+            "object": "Hanks"
+        },
+        {
+            "subject": "California Golden Bears",
+            "relationship": "is associated with",
+            "object": "Heisman Trophy"
+        },
+        {
+            "subject": "Brecht",
+            "relationship": "is watched by",
+            "object": "Hanks"
+        },
+        {
+            "subject": "Tennessee Williams",
+            "relationship": "is watched by",
+            "object": "Hanks"
+        },
+        {
+            "subject": "Ibsen",
+            "relationship": "is watched by",
+            "object": "Hanks"
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "moved to",
+            "object": "New York City"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "made film debut in",
+            "object": "He Knows You're Alone"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "landed starring role in",
+            "object": "Mazes and Monsters"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "landed role in",
+            "object": "Riverside Shakespeare Company's production of The Mandrake"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "was directed by",
+            "object": "Daniel Southern"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "landed role in",
+            "object": "ABC television pilot of Bosom Buddies"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "acted alongside",
+            "object": "Peter Scolari"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "partnered with",
+            "object": "Peter Scolari"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "moved to",
+            "object": "Los Angeles"
+        },
+        {
+            "subject": "Bosom Buddies",
+            "relationship": "ran for",
+            "object": "two seasons"
+        },
+        {
+            "subject": "Ian Praiser",
+            "relationship": "told",
+            "object": "Rolling Stone"
+        },
+        {
+            "subject": "Ian Praiser",
+            "relationship": "was co-producer",
+            "object": "Hanks"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "became",
+            "object": "movie star"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "met",
+            "object": "Lowell Ganz"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "met",
+            "object": "Babaloo Mandel"
+        },
+        {
+            "subject": "Lowell Ganz",
+            "relationship": "were writing",
+            "object": "Splash"
+        },
+        {
+            "subject": "Babaloo Mandel",
+            "relationship": "were writing",
+            "object": "Splash"
+        },
+        {
+            "subject": "Splash",
+            "relationship": "to be directed by",
+            "object": "Ron Howard"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "landed",
+            "object": "lead role in Splash"
+        },
+        {
+            "subject": "Ron Howard",
+            "relationship": "considered",
+            "object": "Hanks for the film"
+        },
+        {
+            "subject": "Howard",
+            "relationship": "considered",
+            "object": "Hanks for the role"
+        },
+        {
+            "subject": "role",
+            "relationship": "went to",
+            "object": "John Candy"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "had",
+            "object": "sizable hit with Bachelor Party"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "made",
+            "object": "guest appearances on Family Ties"
+        }
+    ],
+    [
+        {
+            "subject": "Jackie Gleason",
+            "relationship": "played in",
+            "object": "Nothing in Common"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "commented on",
+            "object": "his experience"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "signed an agreement with",
+            "object": "The Walt Disney Studios"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "starred to",
+            "object": "a talent pool in an acting/producing pact"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "stature in",
+            "object": "the film industry rose"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "had a moderate success with",
+            "object": "Dragnet"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "established as",
+            "object": "major Hollywood talent"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "earned",
+            "object": "first nomination for the Academy Award for Best Actor"
+        },
+        {
+            "subject": "Sally Field",
+            "relationship": "co-starred",
+            "object": "Hanks as struggling comedians"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "suffered from",
+            "object": "box-office underperformers"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "portrayed",
+            "object": "greedy Wall Street figure"
+        },
+        {
+            "subject": "greedy Wall Street figure",
+            "relationship": "gets enmeshed in",
+            "object": "hit-and-run accident"
+        },
+        {
+            "subject": "Turner & Hooch",
+            "relationship": "was",
+            "object": "Hanks' only financially successful film"
+        }
+    ],
+    [
+        {
+            "subject": "Leading man",
+            "relationship": "achieved stardom in",
+            "object": "1990-1999"
+        },
+        {
+            "subject": "Leading man",
+            "relationship": "received acclaim in",
+            "object": "1990-1999"
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "won",
+            "object": "second Best Actor Academy Award"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "acted in",
+            "object": "Forrest Gump"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "followed",
+            "object": "Philadelphia"
+        },
+        {
+            "subject": "Forrest Gump",
+            "relationship": "grossed",
+            "object": "worldwide total of over $600 million at the box office"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "remarked",
+            "object": "When I read the script for Gump, I saw it as one of those kind of grand, hopeful movies that the audience can go to and feel ... some hope for their lot and their position in life ... I got that from the movies a hundred million times when I was a kid. I still do."
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "became",
+            "object": "only the second actor to have accomplished the feat of winning consecutive Best Actor Oscars"
+        },
+        {
+            "subject": "Spencer Tracy",
+            "relationship": "was",
+            "object": "the first actor to win consecutive Best Actor Oscars"
+        },
+        {
+            "subject": "Spencer Tracy",
+            "relationship": "won",
+            "object": "in 1937\u201338"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "received",
+            "object": "Academy Awards at the age of 37 for the first and 38 for the second"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "and Tracy",
+            "object": "were the same age at the time they received their Academy Awards"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "starred in",
+            "object": "Apollo 13"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "played the role of",
+            "object": "Jim Lovell"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "reunited with",
+            "object": "Ron Howard"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "starred in",
+            "object": "Toy Story"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "was the voice of",
+            "object": "Sheriff Woody"
+        },
+        {
+            "subject": "Apollo 13",
+            "relationship": "featured actors including",
+            "object": "Kevin Bacon"
+        },
+        {
+            "subject": "Apollo 13",
+            "relationship": "featured actors including",
+            "object": "Bill Paxton"
+        },
+        {
+            "subject": "Apollo 13",
+            "relationship": "featured actors including",
+            "object": "Gary Sinise"
+        },
+        {
+            "subject": "Apollo 13",
+            "relationship": "featured actors including",
+            "object": "Ed Harris"
+        },
+        {
+            "subject": "Apollo 13",
+            "relationship": "featured actors including",
+            "object": "Kathleen Quinlan"
+        },
+        {
+            "subject": "Apollo 13",
+            "relationship": "earned nominations for",
+            "object": "nine Academy Awards"
+        },
+        {
+            "subject": "Apollo 13",
+            "relationship": "won",
+            "object": "two Academy Awards"
+        },
+        {
+            "subject": "Toy Story",
+            "relationship": "was produced by",
+            "object": "Disney/Pixar"
+        },
+        {
+            "subject": "Sheriff Woody",
+            "relationship": "was voiced by",
+            "object": "Hanks"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "made",
+            "object": "directing debut"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "played the role of",
+            "object": "music producer"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "went on to create",
+            "object": "Playtone"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "created",
+            "object": "Playtone"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "named after",
+            "object": "record company in the film"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "named after",
+            "object": "Playtone"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "is",
+            "object": "producer"
+        },
+        {
+            "subject": "Gary Goetzman",
+            "relationship": "is",
+            "object": "producer"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "co-wrote",
+            "object": "From the Earth to the Moon"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "co-directed",
+            "object": "From the Earth to the Moon"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "executive produced",
+            "object": "From the Earth to the Moon"
+        },
+        {
+            "subject": "From the Earth to the Moon",
+            "relationship": "chronicled",
+            "object": "space program"
+        },
+        {
+            "subject": "From the Earth to the Moon",
+            "relationship": "won",
+            "object": "Emmy Award"
+        },
+        {
+            "subject": "Emmy Award",
+            "relationship": "was",
+            "object": "Emmy Award-winning project"
+        },
+        {
+            "subject": "Emmy Award-winning project",
+            "relationship": "was",
+            "object": "$68 million"
+        },
+        {
+            "subject": "$68 million",
+            "relationship": "equivalent to",
+            "object": "$127 million in 2023"
+        },
+        {
+            "subject": "12-part series",
+            "relationship": "chronicled",
+            "object": "space program"
+        },
+        {
+            "subject": "Neil Armstrong",
+            "relationship": "was",
+            "object": "familiar flights"
+        },
+        {
+            "subject": "Jim Lovell",
+            "relationship": "was",
+            "object": "familiar flights"
+        },
+        {
+            "subject": "Moon landings",
+            "relationship": "surrounded by",
+            "object": "personal feelings"
+        }
+    ],
+    [
+        {
+            "subject": "Saving Private Ryan",
+            "relationship": "is a film directed by",
+            "object": "Steven Spielberg"
+        },
+        {
+            "subject": "Saving Private Ryan",
+            "relationship": "takes place in",
+            "object": "France"
+        },
+        {
+            "subject": "Saving Private Ryan",
+            "relationship": "earned",
+            "object": "praise and respect"
+        },
+        {
+            "subject": "Saving Private Ryan",
+            "relationship": "is labeled as",
+            "object": "one of the finest war films ever made"
+        },
+        {
+            "subject": "Saving Private Ryan",
+            "relationship": "earned",
+            "object": "Steven Spielberg his second Academy Award for direction"
+        },
+        {
+            "subject": "Saving Private Ryan",
+            "relationship": "earned",
+            "object": "Hanks another Best Actor nomination"
+        },
+        {
+            "subject": "You've Got Mail",
+            "relationship": "stars",
+            "object": "Hanks and Meg Ryan"
+        },
+        {
+            "subject": "You've Got Mail",
+            "relationship": "is a remake of",
+            "object": "The Shop Around the Corner"
+        },
+        {
+            "subject": "The Green Mile",
+            "relationship": "is an adaptation of",
+            "object": "the Stephen King novel"
+        },
+        {
+            "subject": "Toy Story 2",
+            "relationship": "is a sequel to",
+            "object": "Toy Story"
+        },
+        {
+            "subject": "Toy Story 2",
+            "relationship": "features",
+            "object": "Hanks as the voice of Woody"
+        }
+    ],
+    [],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "starred in",
+            "object": "Cast Away"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "received",
+            "object": "Golden Globe Award win for Best Actor"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "received",
+            "object": "Academy Award nomination for his portrayal of a marooned FedEx systems analyst"
+        },
+        {
+            "subject": "Roger Ebert",
+            "relationship": "wrote",
+            "object": "of Hanks' performance"
+        },
+        {
+            "subject": "Roger Ebert",
+            "relationship": "works for",
+            "object": "The Chicago Sun-Times"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "helped direct and produce",
+            "object": "Band of Brothers"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "appeared in",
+            "object": "America: A Tribute to Heroes"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "teamed up with",
+            "object": "Sam Mendes"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "starred opposite",
+            "object": "Leonardo DiCaprio"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "teamed up with",
+            "object": "Spielberg"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "produced",
+            "object": "My Big Fat Greek Wedding"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "initiated a legal action against",
+            "object": "Gold Circle Films"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "received",
+            "object": "American Film Institute's Life Achievement Award"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "produced",
+            "object": "Road to Perdition"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "appeared in",
+            "object": "The Ladykillers"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "appeared in",
+            "object": "The Terminal"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "appeared in",
+            "object": "The Polar Express"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "played",
+            "object": "multiple motion capture roles in The Polar Express"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "was voted in as",
+            "object": "vice president of the Academy of Motion Picture Arts and Sciences"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "starred in",
+            "object": "The Da Vinci Code"
+        },
+        {
+            "subject": "The Da Vinci Code",
+            "relationship": "is based on",
+            "object": "Dan Brown's bestselling novel"
+        },
+        {
+            "subject": "The Da Vinci Code",
+            "relationship": "was released in",
+            "object": "the U.S."
+        },
+        {
+            "subject": "The Da Vinci Code",
+            "relationship": "grossed",
+            "object": "over US$750 million worldwide"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "followed",
+            "object": "Ken Burns's 2007 documentary The War"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "did voice work for",
+            "object": "Ken Burns's 2007 documentary The War"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "read excerpts from",
+            "object": "World War II-era columns by Al McIntosh"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "topped",
+            "object": "a 1,500-strong list of \"most trusted celebrities\" compiled by Forbes magazine"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "produced",
+            "object": "The Ant Bully"
+        },
+        {
+            "subject": "The Ant Bully",
+            "relationship": "is",
+            "object": "an animated children's movie"
+        }
+    ],
+    [],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "starred in",
+            "object": "Mike Nichols's film Charlie Wilson's War"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "played",
+            "object": "Democratic Texas Congressman Charles Wilson"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "received",
+            "object": "Golden Globe nomination"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "played",
+            "object": "on-screen father"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "executive produced",
+            "object": "musical comedy Mamma Mia"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "executive produced",
+            "object": "miniseries John Adams"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "played",
+            "object": "father of a young man"
+        },
+        {
+            "subject": "Hanks' real-life son Colin",
+            "relationship": "played",
+            "object": "young man"
+        },
+        {
+            "subject": "Colin",
+            "relationship": "is son of",
+            "object": "Hanks"
+        },
+        {
+            "subject": "young man",
+            "relationship": "chooses to work as",
+            "object": "road manager"
+        },
+        {
+            "subject": "road manager",
+            "relationship": "works for",
+            "object": "fading mentalist John Malkovich"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "produced",
+            "object": "Where The Wild Things Are"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "made appearance on",
+            "object": "NBC's Saturday Night Live"
+        },
+        {
+            "subject": "Spike Jonze",
+            "relationship": "directed",
+            "object": "Where The Wild Things Are"
+        },
+        {
+            "subject": "Where The Wild Things Are",
+            "relationship": "based on",
+            "object": "children's book by Maurice Sendak"
+        },
+        {
+            "subject": "Angels & Demons",
+            "relationship": "based on",
+            "object": "novel of the same name by Dan Brown"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "reprise role as",
+            "object": "Robert Langdon"
+        }
+    ],
+    [],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "reprised voice role in",
+            "object": "Toy Story 3"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "executive producer of",
+            "object": "The Pacific"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "invited to see",
+            "object": "complete story reel of Toy Story 3"
+        },
+        {
+            "subject": "Tim Allen",
+            "relationship": "invited to see",
+            "object": "complete story reel of Toy Story 3"
+        },
+        {
+            "subject": "John Ratzenberger",
+            "relationship": "invited to see",
+            "object": "complete story reel of Toy Story 3"
+        }
+    ],
+    [
+        {
+            "subject": "Larry Crowne",
+            "relationship": "stars opposite",
+            "object": "Julia Roberts"
+        },
+        {
+            "subject": "Larry Crowne",
+            "relationship": "receives",
+            "object": "poor reviews"
+        },
+        {
+            "subject": "Larry Crowne",
+            "relationship": "is rated by",
+            "object": "Rotten Tomatoes"
+        },
+        {
+            "subject": "Extremely Loud and Incredibly Close",
+            "relationship": "stars",
+            "object": "Tom Hanks"
+        },
+        {
+            "subject": "Extremely Loud and Incredibly Close",
+            "relationship": "is a",
+            "object": "drama film"
+        },
+        {
+            "subject": "Cloud Atlas",
+            "relationship": "is directed by",
+            "object": "Wachowskis"
+        },
+        {
+            "subject": "Cloud Atlas",
+            "relationship": "is based on",
+            "object": "a novel of the same name"
+        },
+        {
+            "subject": "Game Change",
+            "relationship": "is",
+            "object": "a miniseries"
+        },
+        {
+            "subject": "Game Change",
+            "relationship": "is produced by",
+            "object": "Tom Hanks"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "starred in",
+            "object": "Captain Phillips"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "starred in",
+            "object": "Saving Mr. Banks"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "nominated for",
+            "object": "BAFTA Award for Best Actor in a Leading Role"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "nominated for",
+            "object": "Golden Globe Award for Best Actor \u2013 Motion Picture Drama"
+        },
+        {
+            "subject": "Captain Phillips",
+            "relationship": "based on",
+            "object": "Maersk Alabama hijacking"
+        },
+        {
+            "subject": "Captain Phillips",
+            "relationship": "starred",
+            "object": "Richard Phillips"
+        },
+        {
+            "subject": "Captain Phillips",
+            "relationship": "starred",
+            "object": "Barkhad Abdi"
+        },
+        {
+            "subject": "Saving Mr. Banks",
+            "relationship": "co-starring",
+            "object": "Emma Thompson"
+        },
+        {
+            "subject": "Saving Mr. Banks",
+            "relationship": "directed by",
+            "object": "John Lee Hancock"
+        },
+        {
+            "subject": "Saving Mr. Banks",
+            "relationship": "played",
+            "object": "Walt Disney"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "made",
+            "object": "Broadway debut"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "starred in",
+            "object": "Nora Ephron's Lucky Guy"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "nominated for",
+            "object": "Tony Award for Best Actor in a Play"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "is the author of",
+            "object": "Alan Bean Plus Four"
+        },
+        {
+            "subject": "Alan Bean Plus Four",
+            "relationship": "was published in",
+            "object": "The New Yorker"
+        },
+        {
+            "subject": "Alan Bean Plus Four",
+            "relationship": "features",
+            "object": "four friends"
+        },
+        {
+            "subject": "four friends",
+            "relationship": "make a voyage to",
+            "object": "the moon"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "is criticized by",
+            "object": "Katy Waldman"
+        },
+        {
+            "subject": "Katy Waldman",
+            "relationship": "works for",
+            "object": "Slate"
+        },
+        {
+            "subject": "Alan Bean",
+            "relationship": "is an astronaut of",
+            "object": "Apollo 12"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "is fascinated by",
+            "object": "space"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "built",
+            "object": "plastic models of rockets"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "watched",
+            "object": "live broadcasts of space missions"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "appeared in",
+            "object": "Carly Rae Jepsen music video"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "starred as",
+            "object": "Alan Clay"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "played",
+            "object": "James B. Donovan"
+        },
+        {
+            "subject": "James B. Donovan",
+            "relationship": "negotiated for the release of",
+            "object": "pilot Francis Gary Powers"
+        },
+        {
+            "subject": "pilot Francis Gary Powers",
+            "relationship": "was released by",
+            "object": "Soviet Union"
+        },
+        {
+            "subject": "Soviet Union",
+            "relationship": "in exchange for",
+            "object": "KGB spy Rudolf Abel"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "starred as",
+            "object": "Alan Clay"
+        },
+        {
+            "subject": "Tom Tykwer",
+            "relationship": "directed",
+            "object": "Hanks"
+        },
+        {
+            "subject": "Tom Tykwer",
+            "relationship": "directed",
+            "object": "Hanks"
+        },
+        {
+            "subject": "Tom Tykwer",
+            "relationship": "directed",
+            "object": "Hanks"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "starred as",
+            "object": "airline captain Chesley Sullenberger"
+        },
+        {
+            "subject": "Clint Eastwood",
+            "relationship": "directed",
+            "object": "Sully"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "reprised his role as",
+            "object": "Robert Langdon"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "co-starred alongside",
+            "object": "Emma Watson"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "voiced",
+            "object": "David S. Pumpkins"
+        },
+        {
+            "subject": "David S. Pumpkins",
+            "relationship": "appeared in",
+            "object": "episodes of Saturday Night Live"
+        },
+        {
+            "subject": "David S. Pumpkins",
+            "relationship": "appeared in",
+            "object": "The David S. Pumpkins Halloween Special"
+        },
+        {
+            "subject": "The David S. Pumpkins Halloween Special",
+            "relationship": "aired on",
+            "object": "NBC"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "appeared in",
+            "object": "Inferno"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "co-starred in",
+            "object": "The Circle"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "voiced",
+            "object": "Sheriff Woody"
+        },
+        {
+            "subject": "Sheriff Woody",
+            "relationship": "is a character in",
+            "object": "Toy Story 4"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "portrayed",
+            "object": "Fred Rogers"
+        },
+        {
+            "subject": "Fred Rogers",
+            "relationship": "is a character in",
+            "object": "A Beautiful Day in the Neighborhood"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "was nominated for",
+            "object": "his first Academy Award"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "acted in",
+            "object": "A Beautiful Day in the Neighborhood"
+        },
+        {
+            "subject": "A Beautiful Day in the Neighborhood",
+            "relationship": "was released by",
+            "object": "Sony Pictures"
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "starred in",
+            "object": "Greyhound"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "wrote",
+            "object": "screenplay for Greyhound"
+        },
+        {
+            "subject": "Greyhound",
+            "relationship": "was released on",
+            "object": "Apple TV+"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "starred in",
+            "object": "News of the World"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "teamed with",
+            "object": "Paul Greengrass"
+        },
+        {
+            "subject": "News of the World",
+            "relationship": "was released on",
+            "object": "December 23, 2020"
+        },
+        {
+            "subject": "David Rooney",
+            "relationship": "praised",
+            "object": "Hanks"
+        },
+        {
+            "subject": "David Rooney",
+            "relationship": "is a film critic of",
+            "object": "The Hollywood Reporter"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "starred in",
+            "object": "Finch"
+        },
+        {
+            "subject": "Finch",
+            "relationship": "directed by",
+            "object": "Miguel Sapochnik"
+        },
+        {
+            "subject": "Finch",
+            "relationship": "released by",
+            "object": "Apple TV+"
+        },
+        {
+            "subject": "Connor Ratliff",
+            "relationship": "appeared as a guest on",
+            "object": "Late Night With Seth Meyers"
+        },
+        {
+            "subject": "Connor Ratliff",
+            "relationship": "revealed",
+            "object": "Hanks would at last be interviewed for the season three finale of Ratliff's podcast Dead Eyes"
+        },
+        {
+            "subject": "Ratliff",
+            "relationship": "was about to begin filming an episode of",
+            "object": "Band of Brothers"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "believed",
+            "object": "Ratliff had 'dead eyes'"
+        },
+        {
+            "subject": "conversation",
+            "relationship": "took place",
+            "object": "22 years after Ratliff was about to begin filming an episode of Band of Brothers"
+        },
+        {
+            "subject": "interview",
+            "relationship": "hailed as",
+            "object": "a momentous achievement in podcasting"
+        },
+        {
+            "subject": "show",
+            "relationship": "gives",
+            "object": "a perfect conclusion"
+        },
+        {
+            "subject": "show",
+            "relationship": "is",
+            "object": "surprisingly funny and empathetic"
+        },
+        {
+            "subject": "Paul Scheer",
+            "relationship": "called",
+            "object": "the event thrilling"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "starred in",
+            "object": "Elvis"
+        },
+        {
+            "subject": "Elvis",
+            "relationship": "directed by",
+            "object": "Baz Luhrmann"
+        },
+        {
+            "subject": "Elvis",
+            "relationship": "filming location was",
+            "object": "Queensland, Australia"
+        },
+        {
+            "subject": "Elvis",
+            "relationship": "was released in",
+            "object": "June 2022"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "portrayed",
+            "object": "Geppetto"
+        },
+        {
+            "subject": "Geppetto",
+            "relationship": "in",
+            "object": "Walt Disney Studios' live-action adaptation of Pinocchio"
+        },
+        {
+            "subject": "Pinocchio",
+            "relationship": "directed by",
+            "object": "Zemeckis"
+        },
+        {
+            "subject": "Pinocchio",
+            "relationship": "was released on",
+            "object": "September 8, 2022"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "acted in",
+            "object": "A Man Called Otto"
+        },
+        {
+            "subject": "A Man Called Otto",
+            "relationship": "is a remake of",
+            "object": "A Man Called Ove"
+        },
+        {
+            "subject": "A Man Called Otto",
+            "relationship": "was released by",
+            "object": "Sony Pictures in December 2022"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "appeared in",
+            "object": "Asteroid City"
+        },
+        {
+            "subject": "Wes Anderson",
+            "relationship": "directed",
+            "object": "Asteroid City"
+        },
+        {
+            "subject": "Asteroid City",
+            "relationship": "premiered at",
+            "object": "2023 Cannes Film Festival"
+        },
+        {
+            "subject": "Asteroid City",
+            "relationship": "was released in",
+            "object": "June 2023"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "collaborated with",
+            "object": "Wes Anderson"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "starred alongside",
+            "object": "Jason Schwartzman"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "starred alongside",
+            "object": "Scarlett Johansson"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "starred alongside",
+            "object": "Adrien Brody"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "starred alongside",
+            "object": "Jeffrey Wright"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "starred alongside",
+            "object": "Bryan Cranston"
+        }
+    ],
+    [
+        {
+            "subject": "HBO",
+            "relationship": "confirmed",
+            "object": "developing a third World War II miniseries"
+        },
+        {
+            "subject": "HBO",
+            "relationship": "progressing",
+            "object": "production under the working title The Mighty Eighth"
+        },
+        {
+            "subject": "HBO",
+            "relationship": "announced",
+            "object": "the series would stream on Apple TV+ due to budget constraints"
+        },
+        {
+            "subject": "Masters of the Air",
+            "relationship": "expected to cost",
+            "object": "$200 million"
+        },
+        {
+            "subject": "Masters of the Air",
+            "relationship": "expected to have a duration of",
+            "object": "at least eight hours"
+        },
+        {
+            "subject": "Masters of the Air",
+            "relationship": "premiered on",
+            "object": "January 26, 2024"
+        },
+        {
+            "subject": "Hanks and Spielberg",
+            "relationship": "to follow",
+            "object": "Band of Brothers and The Pacific"
+        }
+    ],
+    [],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "is appearing in",
+            "object": "In the Garden of Beasts"
+        },
+        {
+            "subject": "Joe Wright",
+            "relationship": "is directing",
+            "object": "In the Garden of Beasts"
+        },
+        {
+            "subject": "William Dodd",
+            "relationship": "is an American diplomat"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "will star in",
+            "object": "the feature adaptation of Here"
+        },
+        {
+            "subject": "Here",
+            "relationship": "is a graphic novel by",
+            "object": "Richard McGuire"
+        },
+        {
+            "subject": "Robert Zemeckis",
+            "relationship": "is directing",
+            "object": "the feature adaptation of Here"
+        }
+    ],
+    [],
+    [],
+    [],
+    [
+        {
+            "subject": "2002 AFI Life Achievement Award",
+            "relationship": "is",
+            "object": "award"
+        },
+        {
+            "subject": "2006 Douglas S. Morrow Public Outreach Award",
+            "relationship": "is",
+            "object": "award"
+        },
+        {
+            "subject": "2014 Kennedy Center Honors Medallion",
+            "relationship": "is",
+            "object": "award"
+        },
+        {
+            "subject": "2016 Presidential Medal of Freedom",
+            "relationship": "is",
+            "object": "award"
+        }
+    ],
+    [
+        {
+            "subject": "NBC",
+            "relationship": "is associated with",
+            "object": "Tom Brokaw"
+        },
+        {
+            "subject": "National WWII Museum",
+            "relationship": "has president",
+            "object": "Gordon H. Mueller"
+        },
+        {
+            "subject": "New Orleans",
+            "relationship": "is the location of",
+            "object": "National WWII Museum"
+        }
+    ],
+    [
+        {
+            "subject": "2019",
+            "relationship": "Honorary citizen of",
+            "object": "Greece"
+        },
+        {
+            "subject": "2020",
+            "relationship": "receives",
+            "object": "Golden Globe Cecil B. DeMille Award"
+        }
+    ],
+    [],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "married",
+            "object": "Samantha Lewes"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "had",
+            "object": "Colin"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "had",
+            "object": "Elizabeth"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "divorced",
+            "object": "Samantha Lewes"
+        },
+        {
+            "subject": "Samantha Lewes",
+            "relationship": "died",
+            "object": "2002"
+        },
+        {
+            "subject": "Samantha Lewes",
+            "relationship": "died from",
+            "object": "bone cancer"
+        }
+    ],
+    [],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "attends",
+            "object": "church"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "has",
+            "object": "Type 2 diabetes"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "is a fan of",
+            "object": "Oakland Athletics"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "is a fan of",
+            "object": "Raiders"
+        },
+        {
+            "subject": "Raiders",
+            "relationship": "were based in",
+            "object": "Oakland"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "stated in",
+            "object": "April 2017"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "would boycott",
+            "object": "NFL"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "would boycott",
+            "object": "NFL for two years"
+        },
+        {
+            "subject": "Raiders",
+            "relationship": "filed for relocation to",
+            "object": "Las Vegas"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "is an avid fan of",
+            "object": "Aston Villa"
+        },
+        {
+            "subject": "Aston Villa",
+            "relationship": "is",
+            "object": "English Premier League"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "portrays",
+            "object": "Fred Rogers"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "descendant of",
+            "object": "Johannes Meffert"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "sixth cousins of",
+            "object": "Fred Rogers"
+        },
+        {
+            "subject": "Johannes Meffert",
+            "relationship": "born in",
+            "object": "Sch\u00f6neck, Hesse, Germany"
+        },
+        {
+            "subject": "Johannes Meffert",
+            "relationship": "emigrated to",
+            "object": "United States"
+        },
+        {
+            "subject": "Johannes Meffert",
+            "relationship": "settled in",
+            "object": "Kentucky"
+        },
+        {
+            "subject": "Johannes Meffert",
+            "relationship": "changed his last name to",
+            "object": "Mefford"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "is a distant relative of",
+            "object": "Abraham Lincoln"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "narrated",
+            "object": "the 2011 television program Killing Lincoln"
+        }
+    ],
+    [
+        {
+            "subject": "Prokopis Pavlopoulos",
+            "relationship": "signed",
+            "object": "honorary naturalization order"
+        },
+        {
+            "subject": "Prokopis Pavlopoulos",
+            "relationship": "is",
+            "object": "President of Greece"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "was conferred honorary citizenship",
+            "object": "Greek citizens"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "brought global attention",
+            "object": "wildfire in Mati"
+        },
+        {
+            "subject": "Wilson",
+            "relationship": "was conferred honorary citizenship",
+            "object": "Greek citizens"
+        },
+        {
+            "subject": "Takis Theodorikakos",
+            "relationship": "said",
+            "object": "Hanks showed real interest in the people who suffered from the fire in Mati"
+        },
+        {
+            "subject": "Takis Theodorikakos",
+            "relationship": "is",
+            "object": "Greece's Interior Minister"
+        }
+    ],
+    [
+        {
+            "subject": "Kyriakos Mitsotakis",
+            "relationship": "handed over",
+            "object": "Greek passports"
+        },
+        {
+            "subject": "Kyriakos Mitsotakis",
+            "relationship": "accompanied with",
+            "object": "his wife"
+        },
+        {
+            "subject": "Kyriakos Mitsotakis",
+            "relationship": "handed over",
+            "object": "Hanks"
+        },
+        {
+            "subject": "Kyriakos Mitsotakis",
+            "relationship": "handed over",
+            "object": "Wilson"
+        }
+    ],
+    [],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "has donated to",
+            "object": "Democratic politicians"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "uploaded",
+            "object": "video endorsing Barack Obama"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "narrated",
+            "object": "documentary The Road We've Traveled created by Obama for America"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "endorsed",
+            "object": "Hillary Clinton"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "opposed",
+            "object": "Proposition 8"
+        },
+        {
+            "subject": "Proposition 8",
+            "relationship": "defined",
+            "object": "marriage as a union only between a man and a woman"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "raised",
+            "object": "over US$44 million"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "called",
+            "object": "supporters of Proposition 8 un-American"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "criticized",
+            "object": "LDS Church members"
+        },
+        {
+            "subject": "LDS Church members",
+            "relationship": "were",
+            "object": "major proponents of the bill"
+        },
+        {
+            "subject": "LDS Church members",
+            "relationship": "supported",
+            "object": "the bill"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "apologized for",
+            "object": "the remark"
+        },
+        {
+            "subject": "nothing",
+            "relationship": "is",
+            "object": "more American than voting one's conscience"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "is",
+            "object": "investor in electric vehicles"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "owns",
+            "object": "Toyota RAV4 EV"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "owns",
+            "object": "the first production AC Propulsion eBox"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "was",
+            "object": "lessee of an EV1"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "was on",
+            "object": "waiting list for an Aptera 2 Series"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "serves as campaign chair of",
+            "object": "Hidden Heroes Campaign"
+        },
+        {
+            "subject": "Hidden Heroes Campaign",
+            "relationship": "of",
+            "object": "Elizabeth Dole Foundation"
+        },
+        {
+            "subject": "campaign",
+            "relationship": "has",
+            "object": "mission"
+        },
+        {
+            "subject": "mission",
+            "relationship": "is to inspire",
+            "object": "national movement"
+        },
+        {
+            "subject": "national movement",
+            "relationship": "support",
+            "object": "military and veteran caregivers"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "donated",
+            "object": "espresso machine"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "donated",
+            "object": "new machines"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "donated",
+            "object": "new machines"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "accompanied by",
+            "object": "note"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "accompanying note read",
+            "object": "To the White House Press Corps, Keep up the good fight for Truth, Justice, and the American Way. Especially for the truth part."
+        },
+        {
+            "subject": "Press Corps",
+            "relationship": "did not have",
+            "object": "coffee pot"
+        },
+        {
+            "subject": "Press Corps",
+            "relationship": "have",
+            "object": "espresso machine"
+        }
+    ],
+    [
+        {
+            "subject": "He",
+            "relationship": "endorsed",
+            "object": "Vice President Joe Biden"
+        },
+        {
+            "subject": "Vice President Joe Biden",
+            "relationship": "in",
+            "object": "2020 presidential election"
+        }
+    ],
+    [],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "is a member of",
+            "object": "National Space Society"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "served on",
+            "object": "Board of governors of National Space Society"
+        },
+        {
+            "subject": "Wernher von Braun",
+            "relationship": "founded",
+            "object": "National Space Society"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "produced",
+            "object": "HBO miniseries From the Earth to the Moon"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "co-wrote",
+            "object": "film Magnificent Desolation: Walking on the Moon 3D"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "co-produced",
+            "object": "film Magnificent Desolation: Walking on the Moon 3D"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "provided",
+            "object": "voice-over for Passport to the Universe show"
+        },
+        {
+            "subject": "Passport to the Universe show",
+            "relationship": "premiered at",
+            "object": "Rose Center for Earth and Space"
+        },
+        {
+            "subject": "Rose Center for Earth and Space",
+            "relationship": "is located in",
+            "object": "Hayden Planetarium at American Museum of Natural History"
+        },
+        {
+            "subject": "Hayden Planetarium at American Museum of Natural History",
+            "relationship": "is in",
+            "object": "New York"
+        }
+    ],
+    [
+        {
+            "subject": "Space Foundation",
+            "relationship": "awarded",
+            "object": "Hanks"
+        },
+        {
+            "subject": "Space Foundation",
+            "relationship": "awarded",
+            "object": "Douglas S. Morrow Public Outreach Award"
+        },
+        {
+            "subject": "Douglas S. Morrow Public Outreach Award",
+            "relationship": "given to",
+            "object": "Hanks"
+        },
+        {
+            "subject": "Douglas S. Morrow Public Outreach Award",
+            "relationship": "given annually to",
+            "object": "individual or organization"
+        },
+        {
+            "subject": "Douglas S. Morrow Public Outreach Award",
+            "relationship": "made to",
+            "object": "significant contributions to public awareness of space programs"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "was inducted as an honorary member of",
+            "object": "United States Army Rangers Hall of Fame"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "portrayed",
+            "object": "captain"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "received",
+            "object": "honor"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "served as",
+            "object": "national spokesperson for World War II Memorial Campaign"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "was",
+            "object": "honorary chairperson of D-Day Museum Capital Campaign"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "role in writing and helping to produce",
+            "object": "Emmy Award-winning miniseries Band of Brothers"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "was on hand at",
+            "object": "Rock and Roll Hall of Fame"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "induct",
+            "object": "The Dave Clark Five"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "is a collector of",
+            "object": "manual typewriters"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "released",
+            "object": "Hanx Writer"
+        },
+        {
+            "subject": "Hanx Writer",
+            "relationship": "is an",
+            "object": "iOS app"
+        },
+        {
+            "subject": "Hanx Writer",
+            "relationship": "reached",
+            "object": "number one on the App Store"
+        }
+    ],
+    [],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "is an ordained minister",
+            "object": ""
+        },
+        {
+            "subject": "CBS News",
+            "relationship": "reported",
+            "object": "Hanks officiating a wedding in Pittsburgh"
+        }
+    ],
+    [],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "wrote",
+            "object": "a collection of short stories inspired by his typewriter collection, Uncommon Type"
+        },
+        {
+            "subject": "Uncommon Type",
+            "relationship": "was published in",
+            "object": "2017"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "wrote",
+            "object": "The Making of Another Major Motion Picture Masterpiece"
+        },
+        {
+            "subject": "The Making of Another Major Motion Picture Masterpiece",
+            "relationship": "was published in",
+            "object": "May 2023"
+        }
+    ],
+    [],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "is often compared to",
+            "object": "James Stewart"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "is referred to as",
+            "object": "America's Dad"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "starred in",
+            "object": "Nora Ephron's Lucky Guy on Broadway"
+        },
+        {
+            "subject": "Nora Ephron's Lucky Guy",
+            "relationship": "was performed on",
+            "object": "Broadway"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "had crowds of",
+            "object": "300 fans waiting for a glimpse of him"
+        },
+        {
+            "subject": "Broadway performance",
+            "relationship": "had",
+            "object": "the highest number of expectant fans post-show"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "is ranked as",
+            "object": "fifth-highest all-time box office star"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "has a total gross of",
+            "object": "$4.9 billion at the North American box office"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "has an average gross of",
+            "object": "$100.8 million per film at the North American box office"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "has films grossing over",
+            "object": "$9.96 billion worldwide"
+        }
+    ],
+    [
+        {
+            "subject": "Asteroid 12818 Tomhanks",
+            "relationship": "is named after",
+            "object": "Tom Hanks"
+        }
+    ],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "was voted Number 3 in",
+            "object": "Channel 4's countdown of the 100 Greatest Movie Stars of All Time"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "is number 22 on",
+            "object": "VH1's list of the '200 Greatest Pop Culture Icons of All Time'"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "was included on",
+            "object": "Forbes' list of the top ten most powerful celebrities in the world"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "was included on",
+            "object": "Forbes' list of the top ten most powerful celebrities in the world"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "was included on",
+            "object": "Forbes' list of the top ten most powerful celebrities in the world"
+        }
+    ],
+    [],
+    [
+        {
+            "subject": "Hanks",
+            "relationship": "was interviewed on",
+            "object": "WHYY-FM"
+        },
+        {
+            "subject": "WHYY-FM",
+            "relationship": "is located in",
+            "object": "Philadelphia"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "discussed",
+            "object": "Captain Phillips"
+        },
+        {
+            "subject": "Captain Phillips",
+            "relationship": "is about",
+            "object": "the real life story of a ship's captain hijacked by Somali pirates"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "discussed",
+            "object": "From Earth to the Moon"
+        },
+        {
+            "subject": "From Earth to the Moon",
+            "relationship": "was nominated for",
+            "object": "17 Emmy Awards"
+        },
+        {
+            "subject": "Hanks",
+            "relationship": "shared anecdotes about",
+            "object": "his acting career"
+        }
+    ],
+    [
+        {
+            "subject": "Gardner",
+            "relationship": "authored",
+            "object": "Tom Hanks: The Unauthorized Biography"
+        },
+        {
+            "subject": "Gardner",
+            "relationship": "authored",
+            "object": "Tom Hanks: Enigma"
+        },
+        {
+            "subject": "Tom Hanks: The Unauthorized Biography",
+            "relationship": "is about",
+            "object": "Tom Hanks"
+        },
+        {
+            "subject": "Tom Hanks: Enigma",
+            "relationship": "is about",
+            "object": "Tom Hanks"
+        },
+        {
+            "subject": "Tom Hanks: The Unauthorized Biography",
+            "relationship": "is located in",
+            "object": "London"
+        },
+        {
+            "subject": "Tom Hanks: Enigma",
+            "relationship": "has location",
+            "object": "Unknown"
+        },
+        {
+            "subject": "Tom Hanks: The Unauthorized Biography",
+            "relationship": "has ISBN",
+            "object": "978-1-85782-327-1"
+        },
+        {
+            "subject": "Tom Hanks: Enigma",
+            "relationship": "has ISBN",
+            "object": "978-1-84454-428-8"
+        }
+    ],
+    [
+        {
+            "subject": "Pfeiffer, Lee",
+            "relationship": "authored",
+            "object": "The Films of Tom Hanks"
+        },
+        {
+            "subject": "The Films of Tom Hanks",
+            "relationship": "is published in",
+            "object": "Secaucus, New Jersey"
+        },
+        {
+            "subject": "Secaucus, New Jersey",
+            "relationship": "has ISBN number",
+            "object": "978-0-8065-1717-9"
+        }
+    ],
+    [
+        {
+            "subject": "Salamon",
+            "relationship": "is",
+            "object": "author"
+        },
+        {
+            "subject": "Salamon",
+            "relationship": "wrote",
+            "object": "The Devil's Candy: The Bonfire of the Vanities Goes to Hollywood"
+        },
+        {
+            "subject": "Salamon",
+            "relationship": "is set in",
+            "object": "Boston"
+        },
+        {
+            "subject": "Salamon",
+            "relationship": "has ISBN",
+            "object": "978-0-385-30824-3"
+        },
+        {
+            "subject": "Trakin",
+            "relationship": "is",
+            "object": "author"
+        },
+        {
+            "subject": "Trakin",
+            "relationship": "wrote",
+            "object": "Tom Hanks: Journey to Stardom"
+        },
+        {
+            "subject": "Trakin",
+            "relationship": "has ISBN",
+            "object": "978-0-312-95596-0"
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "subject": "Tom Hanks",
+            "relationship": "is listed on",
+            "object": "IMDb"
+        },
+        {
+            "subject": "Tom Hanks",
+            "relationship": "is reviewed on",
+            "object": "Rotten Tomatoes"
+        },
+        {
+            "subject": "Tom Hanks",
+            "relationship": "is featured on",
+            "object": "TCM Movie Database"
+        },
+        {
+            "subject": "Tom Hanks",
+            "relationship": "is credited on",
+            "object": "Internet Broadway Database"
+        },
+        {
+            "subject": "Terry Gross",
+            "relationship": "has interviewed",
+            "object": "Tom Hanks"
+        },
+        {
+            "subject": "Fresh Air",
+            "relationship": "has archive of interviews",
+            "object": "Tom Hanks"
+        }
+    ],
+    []
+]
