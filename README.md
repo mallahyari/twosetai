@@ -9,7 +9,7 @@ We are proud winners of the **Anthropic AI Developer Contest 2024**, and we are 
 ## 🤓 Meet the Team:
 
 - **Mehdi**:  
-  Professor of Computer Science, Co-founder and Chief AI Engineer at Transform AI Studio, NSF Fellow, and a published author.
+  Professor of Computer Science, Co-founder and Chief AI Engineer at OncillaAI, NSF Fellow, and a published author.
 
 ---
 
@@ -27,8 +27,7 @@ At **TwoSetAI**, we aim to make AI accessible to everyone by covering a wide ran
 
 ## 📚 Learn More About Us:
 
-- 📌 Our Consulting Firm: [Transform AI Studio](https://www.transformaistudio.com/)
+- 📌 Our Consulting Firm: [OncillaAI](https://www.oncillaai.com/)
 - 🗞️ Our Newsletter: [ML Notes](https://mlnotes.substack.com/)
-- 📙 Our RAG Book: [Practical Approach to RAG Systems](https://angelinamagr.gumroad.com/l/practical-approach-to-RAG-systems)
 
 👉 **Subscribe now** and join us on our journey to demystify AI for everyone!
