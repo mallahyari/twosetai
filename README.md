@@ -27,7 +27,7 @@ At **TwoSetAI**, we aim to make AI accessible to everyone by covering a wide ran
 
 ## 📚 Learn More About Us:
 
-- 📌 Our Consulting Firm: [OncillaAI](https://www.oncillaai.com/)
+- 📌 Our Consulting Firm: [OncillaAI](https://oncillaai.com/)
 - 🗞️ Our Newsletter: [ML Notes](https://mlnotes.substack.com/)
 
 👉 **Subscribe now** and join us on our journey to demystify AI for everyone!
