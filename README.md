@@ -8,8 +8,6 @@ We are proud winners of the **Anthropic AI Developer Contest 2024**, and we are 
 
 ## 🤓 Meet the Team:
 
-- **Angelina**:  
-  VP of AI and Data, Co-founder of Transform AI Studio, two-time fast.ai fellow under Jeremy Howard, and a published author.
 - **Mehdi**:  
   Professor of Computer Science, Co-founder and Chief AI Engineer at Transform AI Studio, NSF Fellow, and a published author.
 
